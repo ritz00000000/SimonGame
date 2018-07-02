@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/simon/scene/HelloAR.unity
+  isLoaded: 1
+  isActive: 1
